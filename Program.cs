@@ -7,8 +7,10 @@ namespace hello_world
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
             Console.WriteLine("Emilia");
             Console.WriteLine("Rodrigo Torres");
+            Console.WriteLine("Luis Pedro");
         }
     }
 }
